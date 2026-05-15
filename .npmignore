@@ -1,0 +1,5 @@
+src/
+*.map
+.env*
+tsconfig.json
+node_modules/
