@@ -142,7 +142,7 @@ TEABLE_API_KEY=your_token npx @modelcontextprotocol/inspector node dist/index.js
 ## Local Development
 
 ```bash
-git clone https://github.com/yourname/teable-mcp
+git clone https://github.com/imperol3/teable-mcp
 cd teable-mcp
 npm install
 npm run build
