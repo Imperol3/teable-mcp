@@ -1,6 +1,6 @@
 {
   "name": "teable-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full-CRUD MCP server for Teable — zero build step, npx-ready",
   "type": "module",
   "bin": {
